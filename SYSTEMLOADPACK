@@ -1,0 +1,4 @@
+system {
+print("LOADPAK RELOAD REBOOTED.")
+}
+unpack("loadpack")
