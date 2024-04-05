@@ -1,4 +1,4 @@
 system {
-print("LOADPAK RELOAD REBOOTED.")
+print("LOADPACK RELOAD REBOOTED.")
 }
 unpack("loadpack")
